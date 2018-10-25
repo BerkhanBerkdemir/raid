@@ -2,7 +2,7 @@
   "name": "raid",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://berkhanberkdemir.github.io/raid",
+  "homepage": "https://berkhanberkdemir.github.io/raid",
   "dependencies": {
     "node-sass": "^4.9.4",
     "react": "^16.6.0",
