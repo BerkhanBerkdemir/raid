@@ -1,0 +1,13 @@
+{
+  "main.css": "/raid/static/css/main.7b6ef8cb.chunk.css",
+  "main.js": "/raid/static/js/main.54aa67fd.chunk.js",
+  "main.js.map": "/raid/static/js/main.54aa67fd.chunk.js.map",
+  "static/js/1.7e417a77.chunk.js": "/raid/static/js/1.7e417a77.chunk.js",
+  "static/js/1.7e417a77.chunk.js.map": "/raid/static/js/1.7e417a77.chunk.js.map",
+  "runtime~main.js": "/raid/static/js/runtime~main.e23010e3.js",
+  "runtime~main.js.map": "/raid/static/js/runtime~main.e23010e3.js.map",
+  "static/css/main.7b6ef8cb.chunk.css.map": "/raid/static/css/main.7b6ef8cb.chunk.css.map",
+  "index.html": "/raid/index.html",
+  "precache-manifest.fb9778b7a22872316d1fcba1f36c208f.js": "/raid/precache-manifest.fb9778b7a22872316d1fcba1f36c208f.js",
+  "service-worker.js": "/raid/service-worker.js"
+}
