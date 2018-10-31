@@ -3,7 +3,7 @@
 RAID is a RAID calculator which works as a PWA (Progressive Web Application).
 You can see at https://berkhanberkdemir.com/raid/ the calculator.
 
-It calculates (for now) RAID 0, 1 and 5.
+It calculates (for now) RAID 0, 1, 5 and 6.
 
 ## Getting started
 
